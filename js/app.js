@@ -1,5 +1,5 @@
 (function(document, window, $){
-
+$('body').scrollTop(0);
 $('.single-item').slick({
         dots: true,
         speed: 500,
